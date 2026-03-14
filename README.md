@@ -1,2 +1,2 @@
 # lex-automation-legal
-Legal docs for Lex-automation TikTok app
+Legal docs for Lex-automation app
